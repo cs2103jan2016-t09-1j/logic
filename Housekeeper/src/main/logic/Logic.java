@@ -22,6 +22,8 @@ import main.storage.Storage;
  * Handles the manipulation of the list of tasks as well as their temporary
  * storage.
  * 
+ * @@author A0124719A
+ * 
  */
 public class Logic {
 	private static final Logger logger = Logger.getLogger(Logic.class.getName());
